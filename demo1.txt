@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+=======
 abbb
 dubn thêm
+<<<<<<< HEAD
 22222
+=======
+>>>>>>> dubn-demo2
+a
+>>>>>>> develop
